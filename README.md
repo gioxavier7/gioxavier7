@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/gioxavierz7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/gioxavierz7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%8A2BE2?style=for-the-badge&logo=instagram&logoColor=white&color=8A2BE2"</a>
 </div> 
  
 ### Main skills:
